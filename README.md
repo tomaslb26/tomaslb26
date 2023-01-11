@@ -78,7 +78,7 @@
 
 <br/>  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tomaslb35&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
 
 <br/>  
 
@@ -88,5 +88,3 @@
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
